@@ -1,1 +1,4 @@
 инф о ветке
+создаем с помощью git branch 
+переключаемся git checkout
+пушим: git push -u origin названиеветки
