@@ -1,0 +1,2 @@
+создаем с помощью git branch 
+переключаемся git checkout
