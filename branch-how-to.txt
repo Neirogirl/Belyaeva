@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sdgdfgdfgfdssdfgsfdg
 Ветками надо пользоваться круто
 как создать ветку
@@ -6,3 +7,9 @@ git branch
 git checkout
 как отправить ветку на сервер
 git commit -m ""
+=======
+инф о ветке
+создаем с помощью git branch 
+переключаемся git checkout
+пушим: git push -u origin названиеветки
+>>>>>>> belyaeva
