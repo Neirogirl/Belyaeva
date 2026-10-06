@@ -1,2 +1,8 @@
 sdgdfgdfgfdssdfgsfdg
 Ветками надо пользоваться круто
+как создать ветку
+git branch
+как переключиться в ветку
+git checkout
+как отправить ветку на сервер
+git commit -m ""
